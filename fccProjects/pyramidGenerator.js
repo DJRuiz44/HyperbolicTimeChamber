@@ -29,5 +29,11 @@ function pyramid(char, rows, isDown){
   }
 }
 
-let upPyramid = pyramid("p", 5, true); 
-console.log(JSON.stringify(upPyramid));
+let downPyramid = pyramid("p", 5, true); 
+let upPyramid = pyramid("o", 20, false);
+
+console.log("The great up pyramid of dog");
+console.log(upPyramid);
+
+console.log("The amazing down pyramid of bear");
+console.log(downPyramid);
