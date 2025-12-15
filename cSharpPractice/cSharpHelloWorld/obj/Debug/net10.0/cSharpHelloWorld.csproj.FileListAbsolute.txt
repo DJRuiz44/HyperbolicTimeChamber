@@ -1,0 +1,15 @@
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\bin\Debug\net10.0\cSharpHelloWorld.exe
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\bin\Debug\net10.0\cSharpHelloWorld.deps.json
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\bin\Debug\net10.0\cSharpHelloWorld.runtimeconfig.json
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\bin\Debug\net10.0\cSharpHelloWorld.dll
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\bin\Debug\net10.0\cSharpHelloWorld.pdb
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.AssemblyInfo.cs
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.sourcelink.json
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.dll
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\refint\cSharpHelloWorld.dll
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.pdb
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\cSharpHelloWorld.genruntimeconfig.cache
+C:\Users\Matthew\Desktop\theLab\JavaScriptPractice\cSharpPractice\cSharpHelloWorld\obj\Debug\net10.0\ref\cSharpHelloWorld.dll
