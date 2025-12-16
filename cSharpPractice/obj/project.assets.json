@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpHelloWorld\\cSharpHelloWorld.csproj",
-      "projectName": "cSharpHelloWorld",
-      "projectPath": "C:\\Users\\Matthew\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpHelloWorld\\cSharpHelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Matthew\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpPractice.csproj",
+      "projectName": "cSharpPractice",
+      "projectPath": "C:\\Users\\Matthew\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpPractice.csproj",
       "packagesPath": "C:\\Users\\Matthew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\cSharpHelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\Matthew\\Desktop\\theLab\\JavaScriptPractice\\cSharpPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
