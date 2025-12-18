@@ -4,6 +4,8 @@ using CodeWars;
 
 
 ReturnNegative.Run();
+Console.WriteLine(BooleanToString.Run(false));
+Console.WriteLine(BooleanToString.Run(true));
 // Console.WriteLine("Hello World!");
 // Console.Write("------------------------------");
 // HelloWorld.Run();

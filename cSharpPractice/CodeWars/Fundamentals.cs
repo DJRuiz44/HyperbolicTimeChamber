@@ -11,4 +11,11 @@ namespace CodeWars
             return -Math.Abs(num);
         }
     }
+    public static class BooleanToString
+    {
+        public static string Run(bool b)
+        {
+            return b.ToString();
+        }
+    }
 }
