@@ -18,4 +18,19 @@ namespace CodeWars
             return b.ToString();
         }
     }
+    public static class DNAtoRNA
+    {
+        public static string Run(string dna)
+        {
+            string rna = "";
+            for(int i = 0; i < dna.Length; i++){
+               if(dna[i] == 'T'){
+                rna += "U";
+               }else{
+                rna += dna[i];
+               } 
+            }
+            return rna;
+        }
+    }
 }
