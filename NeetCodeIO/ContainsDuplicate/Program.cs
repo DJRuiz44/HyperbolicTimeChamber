@@ -1,17 +1,26 @@
 ﻿// See https://aka.ms/new-console-template for more information
 bool hasDuplicate(int[] num)
 {
-    //sort first
-    Array.Sort(num);
-    for(int i = 1; i < num.Length; i++)
+    HashSet<int> seen = new HashSet<int>();
+    foreach(int number in num)
     {
-       if(num[i] == num[i-1])
-        {
+        if (!seen.Add(number)){
             return true;
-        } 
+        }
     }
     return false;
 }
+    //sort first//
+    //Array.Sort(num);
+    //for(int i = 1; i < num.Length; i++)
+    //{
+       //if(num[i] == num[i-1])
+        //{
+            //return true;
+        //} 
+    //}
+    //return false;
+    //}
     /* Given constraint on element size < array.length
     int max = num[0];
   for(int i = 0; i < num.Length; i++)
@@ -55,5 +64,5 @@ bool hasDuplicate(int[] num)
     return false;
 }
 */
-int[] testNums = [1, 2, 4, 1];
+int[] testNums = [1, 2, 4, 5];
 Console.WriteLine(hasDuplicate(testNums));
